@@ -1,0 +1,61 @@
+
+.navbar a {
+    color: white;
+}
+
+.contain {
+    padding:10px;
+}
+
+.out-box {
+    display: block;
+    background-color: slategrey;
+    margin: auto;
+    width: 90%;
+    height: 500px;
+    
+}
+
+.cart {
+    background-color: black;
+    width: 95%;
+    height: 90%;
+    margin: auto;
+}
+
+.modald {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 6;
+    display: none;
+}
+
+.final {
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    height: 300px;
+    width: 500px;
+    padding: 30px;
+}
+
+input {
+    display: block;
+}
+
+
+
+.canvasbox {
+    width: 400px;
+    position: absolute;
+    transform: translateX(200%);
+    z-index: 6;
+    background-color: white;
+    display: none;
+}
+
+
+
+
